@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Editcourse = () => {
-  return (
-    <div>Editcourse</div>
-  )
-}
+  return <div>Editcourse</div>;
+};
 
-export default Editcourse
+export default Editcourse;
